@@ -1,7 +1,16 @@
-##Author:  Adeola Afariogun
-#Project: Portfolio
-####Technology: HTML, CSS, Bootstrap
-###Deployment URL: [link to My Portfolio!](https://adeola55.github.io/homework02/)
+## Author:  Adeola Afariogun
+
+
+
+# Project: Portfolio
+
+
+#### Technology: HTML, CSS, Bootstrap
+
+
+
+
+### Deployment URL: [link to My Portfolio!](https://adeola55.github.io/homework02/)
 
 
 
